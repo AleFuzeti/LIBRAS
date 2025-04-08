@@ -48,8 +48,8 @@ O sistema alcançou **excelente desempenho** na identificação de letras em Lib
 
 ## 📷 Exemplos Visuais
 
-![Comparativo Validacao Teste.png](images/comparativo_validacao_teste.png)
-![Desempenho por Época](images/desempenho_por_epoca.png)
+![Comparativo Validacao Teste.png](imagens/comparativo_validacao_teste.png)
+![Desempenho por Época](imagens/desempenho_por_epoca.png)
 
 ---
 
